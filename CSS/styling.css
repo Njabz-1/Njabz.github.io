@@ -283,9 +283,12 @@ h3 {
   background:  var(--clr-darkgray);
   color: var(--clr-graycyan);
   text-align: center;
-  padding: 2.5em 0;
+  padding-bottom: 1%;
   font-size: var(--fs-h3);
-}
+  
+  position: relative;
+  
+  }
 
 .footer a {
   color: inherit;
@@ -320,14 +323,13 @@ h3 {
 .social_list_link {
   padding: .5em;
 }
-
 /*  particles.js container  */
 
- #particles-js {
+ /* #particles-js {
 max-height: 1px;
 max-width: 100%;
 
-}
+} */
 
 /*
 --clr-light: #F8F8FF;
