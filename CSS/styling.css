@@ -235,7 +235,7 @@ h3 {
   color: var(--clr-dark)
 }
 
-@media (min-width: 100px) {
+@media (min-width: 600px) {
   .about_me {
     display: grid;
     grid-template-columns: 1fr 200px;
@@ -283,10 +283,9 @@ h3 {
   background:  var(--clr-darkgray);
   color: var(--clr-graycyan);
   text-align: center;
-  padding-bottom: 1%;
+  padding-bottom: 2%;
   font-size: var(--fs-h3);
-  
-  position: relative;
+  width: 100%;
   
   }
 
