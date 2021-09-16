@@ -175,11 +175,8 @@ h3 {
 /* My Projects section */
 
 .my_projects {
-  /*background-color: var(--clr-midnightblue);*/
   color: black;
-  /*background: url(Images/Technology-Background-HD-Photos.jpg);*/
   background-size: cover;
-  /*background-blend-mode: multiply; */
   text-align: center;
 }
 
@@ -296,9 +293,7 @@ h3 {
   text-decoration: none;
 }
 
-/* .footer_link {
-  font-weight: var(--fw-bold);
-} */
+
 
 .footer_link:hover,
 .social_list_link:hover {
@@ -324,22 +319,3 @@ h3 {
 .social_list_link {
   padding: .5em;
 }
-/*  particles.js container  */
-
- /* #particles-js {
-max-height: 1px;
-max-width: 100%;
-
-} */
-
-/*
---clr-light: #F8F8FF;
---clr-dark: #303030;
---clr-black: #040404;
---clr-accent: #16e0bd;
---clr-midnightblue: #191970;
---clr-navy: #000080;
---clr-darkviolet: #6b5b95;
---clr-darkgray: #878f99;
---clr-darkyellow: #b2ad7f;
---clr-graycyan: #a2b9bc;
