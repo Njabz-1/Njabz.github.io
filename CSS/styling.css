@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+footer{
+  overflow-x: hidden;
+}
+
 /* Custom properties, update at own will */
 
 :root {
@@ -297,6 +301,7 @@ h3 {
 }
 /* Contact */
 
+@media (min-width: 400px) {
 .footer {
   background:  var(--clr-darkgray);
   color: var(--clr-graycyan);
@@ -305,8 +310,8 @@ h3 {
   padding-right: 12px;
   font-size: var(--fs-h3);
   width: 100%;
-  
   }
+
 
 .footer a {
   color: inherit;
@@ -338,4 +343,5 @@ h3 {
 
 .social_list_link {
   padding: .5em;
+}
 }
