@@ -44,6 +44,11 @@
 
 /* General styles */
 
+b{
+  color: white;
+  text-decoration: none;
+}
+
 html {
   scroll-behavior: smooth;
 }
