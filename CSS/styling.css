@@ -301,7 +301,7 @@ h3 {
 }
 /* Contact */
 
-@media (min-width: 400px) {
+@media (min-width: 500px) {
 .footer {
   background:  var(--clr-darkgray);
   color: var(--clr-graycyan);
